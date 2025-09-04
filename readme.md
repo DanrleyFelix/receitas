@@ -1,4 +1,4 @@
-# Recipe Page — README
+# Recipe Page
 
 ## What I Learned (brief summary)
 
